@@ -6,7 +6,7 @@
 
 I am a 25 year old who just started learning software. I'm trying to improve myself in many ways and I really like coding.
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDgzZjc5NzFlNjUyNmVmY2Q2ZDQyZmI2MDE4YTA2NjliMDM1MTE3MyZjdD1z/f9eLFN76n5IYnM6Odo/giphy.gif" width="25"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDgzZjc5NzFlNjUyNmVmY2Q2ZDQyZmI2MDE4YTA2NjliMDM1MTE3MyZjdD1z/f9eLFN76n5IYnM6Odo/giphy.gif" width="25"/>
 <br/>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJkMDYzZmJkYmRiZGNkZjk3YTMxNGI3YjIzYTcwZWQ5MzgzYmE3OCZjdD1z/3iyKHMIKg5VWG6qHUm/giphy.gif" width="100"/>
 
