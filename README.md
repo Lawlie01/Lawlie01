@@ -10,7 +10,7 @@ I am a 25 year old who just started learning software. I'm trying to improve mys
 <br/>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJkMDYzZmJkYmRiZGNkZjk3YTMxNGI3YjIzYTcwZWQ5MzgzYmE3OCZjdD1z/3iyKHMIKg5VWG6qHUm/giphy.gif" width="100"/>
 
-🌱 I’m currently learning VS Code <br/>
+🌱 I’m currently learning VS Code(HTML5, CSS3 vs.) JavaScript <br/>
 ⚡ Fun fact: I love to play games ✨
 
 ### Connect With Me
@@ -25,6 +25,8 @@ I am a 25 year old who just started learning software. I'm trying to improve mys
   <img title="Photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="40"/></a> 
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
   <img title="Visual Studio Code" src="https://code.visualstudio.com/assets/images/code-stable.png" height="40"/></a> 
+  <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
+  <img title="Visual Studio Code" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="40"/></a> 
 
 ---
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Lawlie01&show_icons=true&theme=radical) <br/>
